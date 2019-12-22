@@ -10,8 +10,8 @@ def line(array)
       message += " #{index.to_i+1}. #{value}"
     end
     puts "#{message}"
-    
-    
+  end
+  
 def take_a_number(array, name)
   array.push(name)
   position = array.index(name)
