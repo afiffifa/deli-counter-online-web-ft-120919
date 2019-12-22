@@ -7,7 +7,7 @@ def line(array)
   else 
     massage = "The line is currently:"
     array.each_with_index do |value, index|
-      message += ""
+      message += " #{index"
 
 def take_a_number(array, name)
   array.push(name)
