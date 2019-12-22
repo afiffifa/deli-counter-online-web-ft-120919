@@ -6,7 +6,7 @@ def line(array)
     puts "The line is currently empty"
   else 
     massage = "The line is currently:"
-    
+    array.each
 
 def take_a_number(array, name)
   array.push(name)
