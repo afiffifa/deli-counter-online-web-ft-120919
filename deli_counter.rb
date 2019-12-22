@@ -2,7 +2,7 @@
 katz_deli = []
 
 def line(array)
-  
+  if array.length = 
 
 def take_a_number(array, name)
   array.push(name)
